@@ -1,0 +1,30 @@
+*{
+	padding: 0;
+	margin:0;
+
+
+}
+body{
+	/*font-family: 'Lato', arial, sans-serif;*/
+    color: #434343;
+    background: #dae3e7;
+    font-size: 16px;
+    border-top: 10px solid #778492;
+}
+
+
+.profile{
+
+	padding-top: 30px;
+
+}
+
+.profile_img img{
+	max-height:200px; 
+}
+
+
+.sectionData{
+	margin-top:50px;
+	background-color: red;
+}
